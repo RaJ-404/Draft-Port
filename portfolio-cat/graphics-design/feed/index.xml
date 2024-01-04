@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Graphics Design &#8211; Tirthraj Portfolio</title>
-	<atom:link href="https://raj-404.github.io/Portfolio/portfolio-cat/graphics-design/feed/" rel="self" type="application/rss+xml" />
-	<link>https://raj-404.github.io/Portfolio</link>
+	<atom:link href="https://tirthraj.me/portfolio-cat/graphics-design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tirthraj.me</link>
 	<description></description>
 	<lastBuildDate>Wed, 03 Jan 2024 11:21:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>https://raj-404.github.io/Portfolio/wp-content/uploads/2024/01/Icon.png</url>
+	<url>https://tirthraj.me/wp-content/uploads/2024/01/Icon.png</url>
 	<title>Graphics Design &#8211; Tirthraj Portfolio</title>
-	<link>https://raj-404.github.io/Portfolio</link>
+	<link>https://tirthraj.me</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Graphics for Healthy Food Restaurants</title>
-		<link>https://raj-404.github.io/Portfolio/portfolio/project6/</link>
+		<link>https://tirthraj.me/portfolio/project6/</link>
 		
 		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 01:20:44 +0000</pubDate>
-				<guid isPermaLink="false">https://raj-404.github.io/Portfolio/portfolio/design-brand-guidelines/</guid>
+				<guid isPermaLink="false">https://tirthraj.me/portfolio/design-brand-guidelines/</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -43,11 +43,11 @@
 			</item>
 		<item>
 		<title>Earthbar &#8211; Fruit Juice Packaging Design</title>
-		<link>https://raj-404.github.io/Portfolio/portfolio/project5/</link>
+		<link>https://tirthraj.me/portfolio/project5/</link>
 		
 		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 01:19:59 +0000</pubDate>
-				<guid isPermaLink="false">https://raj-404.github.io/Portfolio/portfolio/financial-app-design/</guid>
+				<guid isPermaLink="false">https://tirthraj.me/portfolio/financial-app-design/</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
