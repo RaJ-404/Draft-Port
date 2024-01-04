@@ -9,8 +9,8 @@
 
 <channel>
 	<title>App Design &#8211; Tirthraj Portfolio</title>
-	<atom:link href="https://tirthraj.me/portfolio-cat/app-design/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tirthraj.me</link>
+	<atom:link href="https://www.tirthraj.me/portfolio-cat/app-design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.tirthraj.me</link>
 	<description></description>
 	<lastBuildDate>Wed, 03 Jan 2024 11:01:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>https://tirthraj.me/wp-content/uploads/2024/01/Icon.png</url>
+	<url>https://www.tirthraj.me/wp-content/uploads/2024/01/Icon.png</url>
 	<title>App Design &#8211; Tirthraj Portfolio</title>
-	<link>https://tirthraj.me</link>
+	<link>https://www.tirthraj.me</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Flight Booking App</title>
-		<link>https://tirthraj.me/portfolio/flight-booking-app/</link>
+		<link>https://www.tirthraj.me/portfolio/flight-booking-app/</link>
 		
 		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 01:27:47 +0000</pubDate>
-				<guid isPermaLink="false">https://tirthraj.me/portfolio/flight-booking-app/</guid>
+				<guid isPermaLink="false">https://www.tirthraj.me/portfolio/flight-booking-app/</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -43,11 +43,11 @@
 			</item>
 		<item>
 		<title>All-in-One Medical App</title>
-		<link>https://tirthraj.me/portfolio/project3/</link>
+		<link>https://www.tirthraj.me/portfolio/project3/</link>
 		
 		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 01:17:50 +0000</pubDate>
-				<guid isPermaLink="false">https://tirthraj.me/portfolio/restaurant-landing-page/</guid>
+				<guid isPermaLink="false">https://www.tirthraj.me/portfolio/restaurant-landing-page/</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

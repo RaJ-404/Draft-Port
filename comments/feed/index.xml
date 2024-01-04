@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Tirthraj Portfolio	</title>
-	<atom:link href="https://tirthraj.me/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tirthraj.me</link>
+	<atom:link href="https://www.tirthraj.me/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.tirthraj.me</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 Jan 2024 14:35:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Jan 2024 14:54:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

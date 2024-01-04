@@ -9,8 +9,8 @@
 
 <channel>
 	<title>UI/Ux &#8211; Tirthraj Portfolio</title>
-	<atom:link href="https://tirthraj.me/portfolio-cat/ui-ux/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tirthraj.me</link>
+	<atom:link href="https://www.tirthraj.me/portfolio-cat/ui-ux/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.tirthraj.me</link>
 	<description></description>
 	<lastBuildDate>Wed, 03 Jan 2024 11:11:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>https://tirthraj.me/wp-content/uploads/2024/01/Icon.png</url>
+	<url>https://www.tirthraj.me/wp-content/uploads/2024/01/Icon.png</url>
 	<title>UI/Ux &#8211; Tirthraj Portfolio</title>
-	<link>https://tirthraj.me</link>
+	<link>https://www.tirthraj.me</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Digital. &#8211; Interactive Landing Page</title>
-		<link>https://tirthraj.me/portfolio/project4/</link>
+		<link>https://www.tirthraj.me/portfolio/project4/</link>
 		
 		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 01:18:52 +0000</pubDate>
-				<guid isPermaLink="false">https://tirthraj.me/portfolio/essential-ui-icon-pack/</guid>
+				<guid isPermaLink="false">https://www.tirthraj.me/portfolio/essential-ui-icon-pack/</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -43,11 +43,11 @@
 			</item>
 		<item>
 		<title>Foodtuck &#8211; Interactive Landing Page for a Health-Conscious Restaurant</title>
-		<link>https://tirthraj.me/portfolio/project2/</link>
+		<link>https://www.tirthraj.me/portfolio/project2/</link>
 		
 		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 01:16:27 +0000</pubDate>
-				<guid isPermaLink="false">https://tirthraj.me/portfolio/mobile-card-app/</guid>
+				<guid isPermaLink="false">https://www.tirthraj.me/portfolio/mobile-card-app/</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -57,11 +57,11 @@
 			</item>
 		<item>
 		<title>Xpertize &#8211; Interactive Landing Page</title>
-		<link>https://tirthraj.me/portfolio/project1/</link>
+		<link>https://www.tirthraj.me/portfolio/project1/</link>
 		
 		<dc:creator><![CDATA[Tirthraj]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 01:14:02 +0000</pubDate>
-				<guid isPermaLink="false">https://tirthraj.me/portfolio/branding-nice-studio/</guid>
+				<guid isPermaLink="false">https://www.tirthraj.me/portfolio/branding-nice-studio/</guid>
 
 					<description><![CDATA[The technological revolution is changing aspect of our lives, and the fabric of society itself. it's also changing the way we learn and what we learn. Factual knowledge is less prized when everything you ever need to know can be found on your phone. There's no imperative to be an expert at doing everything when you can.]]></description>
 										<content:encoded><![CDATA[The technological revolution is changing aspect of our lives, and the fabric of society itself. it's also changing the way we learn and what we learn. Factual knowledge is less prized when everything you ever need to know can be found on your phone. There's no imperative to be an expert at doing everything when you can.]]></content:encoded>
