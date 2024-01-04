@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Google\Auth\CacheTrait&quot; not found in <b>C:\xampp\htdocs\trying\wp-content\plugins\bdthemes-element-pack\modules\user-login\vendor\google\auth\src\Middleware\ScopedAccessTokenMiddleware.php</b> on line <b>36</b><br>
